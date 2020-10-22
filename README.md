@@ -1,4 +1,4 @@
-# automation_Site_Practice_Updated
+# automationSitePracticeUpdated
 Updated version of practice automation
 
 Practice for automation testing in python using unittest
